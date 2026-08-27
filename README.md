@@ -440,7 +440,8 @@ Circular Linked List Operations:
 9. Exit
 
       EX 3a      OUTPUT
-    Stack Operations Menu:
+
+Stack Operations Menu:
 1. Push
 2. Pop
 3. Display
@@ -480,6 +481,60 @@ Stack elements: 10
 Stack Operations Menu:
 1. Push
 2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
+
+EX 3b        OUTPUT
+
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 10
+Element enqueued: 10
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 20
+Element enqueued: 20
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to enqueue: 30
+Element enqueued: 30
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 10 20 30
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 2
+Dequeued element: 10
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 20 30
+Queue Operations Menu:
+1. Enqueue
+2. Dequeue
 3. Display
 4. Exit
 Enter your choice: 4
