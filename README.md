@@ -859,3 +859,155 @@ Original array:
 Sorted array:
 567111213
 
+Ex 11a    OUTPUT
+
+Press1. Insert 2. Display 3. Exit
+1
+Enter a value to insert into hash table: 12 
+Press1. Insert 2. Display 3. Exit
+1
+Enter a value to insert into hash table: 7 
+Press1. Insert 2.Display 3. Exit
+1
+Enter a value to insert into hash table: 3 
+Press1. Insert 2. Display 3. Exit
+2
+Entries at index 0: No Hash Entry 
+Entries at index 1: 12 -> NULL 
+Entries at index 2: 3 -> 7 -> NULL
+Press 1. Insert 2. Display 3. Exit
+1
+Enter a value to insert into hash table: 15 
+Press 1. Insert 2. Display 3. Exit
+2
+Entries at index 0: No Hash Entry 
+Entries at index 1: 12 -> NULL
+Entries at index 2: 3 -> 7 -> 15 -> NULL
+Press 1. Insert 2. Display 3. Exit
+3
+
+
+Ex 11b     OUTPUT
+
+Enter size of hash table 
+5
+Enter hash function (if mod 10, enter 10) 
+5
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert 
+12
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert 
+25
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert 
+20
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert 
+8
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+1
+Enter key element to insert 
+18
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+3
+Index Value
+0 25
+1 Empty
+2 20
+3 8
+4 18
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+4
+Enter element you want to search 
+20
+Element found at index 2
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+2
+Enter element to delete 
+8
+Element deleted
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+3
+Index Value
+0 25
+1 Empty
+2 20
+3 Deleted
+4 18
+Enter your choice
+1 -> Insert
+2 -> Delete
+3 -> Display
+4 -> Search
+0 -> Exit
+0
+Exiting...
+
+
+Ex 12   OUTPUT
+
+Enter how many students: 2
+Enter name and roll number for student 0 : ARUN 
+4211101
+Enter name and roll number for student 1 : KUMAR 
+4211102
+Enter marks of student 0 for subject 0 : 78 
+Enter marks of student 0 for subject 1 : 98 
+Enter marks of student 0 for subject 2 : 67
+Enter marks of student 1 for subject 0 : 78 
+Enter marks of student 1 for subject 1 : 55 
+Enter marks of student 1 for subject 2 : 57
+Total marks obtained by student ARUN are 243n 
+Total marks obtained by student KUMAR are 190n
+Student ARUN got maximum marks = 78 in Subject : 0 
+Student ARUN got maximum marks = 98 in Subject : 1
